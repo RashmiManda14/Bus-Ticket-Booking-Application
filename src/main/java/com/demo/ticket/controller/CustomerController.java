@@ -1,6 +1,6 @@
 package com.demo.ticket.controller;
 
-package com.demo.ticket.controller;
+
 
 import jakarta.validation.Valid;
 import lombok.Data;
